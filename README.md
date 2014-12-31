@@ -1,4 +1,4 @@
-lets-invest
+lets-compose-pictures
 ===========
 
 **Setup & Run**
